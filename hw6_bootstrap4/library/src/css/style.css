@@ -1,0 +1,14 @@
+.col {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+img {
+	display: block;
+	margin-bottom: 20px;
+}
+p {
+	margin: 0;
+}
