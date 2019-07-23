@@ -1,0 +1,43 @@
+body {
+	background: #CD853F;
+}
+h1 {
+	text-align: center;	
+}
+nav {
+	position: fixed; /* Фиксированное позиционирование */
+  right: 0; /* Вся ширина */
+  top: 0; /* Положение сверху */
+  padding: 10px; /* Поля вокруг текста */
+  background: #CD853F; /* Цвет фона */
+}
+.img {
+	display: block;
+	width: 90%;
+	margin: auto;
+}
+h2 {
+	color: rgb(247, 231, 231);
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+a {
+	font-size: 10px;
+	color: #000;
+}
+.text {
+	text-decoration: line-through;
+	color: rgb(65, 100, 68);
+}
+.text2 {
+	text-decoration: underline;
+}
+.text3 {
+	font-style: italic;
+	color: rgb(153, 45, 45);
+}
+.text4 {
+	font-weight: bold;
+}

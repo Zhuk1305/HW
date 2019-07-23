@@ -1,0 +1,73 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	background-color: rgb(150, 144, 144);
+}
+.container {
+	width: 1010px;
+	height: 503px;
+	background-color: #fff;	
+	position:absolute;
+	left:50%;
+	margin-left:-505px;
+	top:50%;
+	margin-top:-251.5px;
+}
+.headphones_photo {
+	display: inline-block;
+	width: 505px;
+	height: 500px;
+}
+img {
+	display: inline-block;
+	width: 376px;
+	height: 375px;
+	margin: 48px 64px;
+}
+.headphones_info {
+	display: inline-block;
+	position: absolute;
+	width: 505px;
+	height: 500px;
+	padding: 18px;
+}
+.name {
+	color: #2f2f2f;
+	font-family: "Arial - Bold MT";
+	font-size: 23px;
+	margin-top: 76px;
+	margin-bottom: 15px;
+}
+.text {
+	display: inline-block;
+	color: #2f2f2f;
+	font-family: "Arial MT";
+	font-size: 15px;
+}
+.headphones_price {
+	width: 500px;
+	height: 250px;
+}
+.text_price {
+	color: #2f2f2f;
+	font-family: "Arial MT";
+	font-size: 15px;
+}
+.price {
+	color: #2f2f2f;
+	font-family: "Arial MT";
+	font-size: 30px;
+	margin-top: 8px;
+}
+button {
+	width: 252px;
+	height: 50px;
+	background-color: #ec744a;
+	margin-top: 26px;
+}
+.in_basket {
+	color: #ffffff;
+	font-family: "Arial MT";
+	font-size: 19px;
+}
